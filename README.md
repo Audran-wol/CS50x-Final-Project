@@ -1,6 +1,6 @@
  CS50x-Final-Project
 # User-Friendly Blog With Flask
-# Video Demo : 
+# Video Demo : https://youtu.be/OR1IxDqgRcs
 
 Blog Post Build with Flask in Python
 This project is a blog post that explains how to build a blog post with Flask in Python.
